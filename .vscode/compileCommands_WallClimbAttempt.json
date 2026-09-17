@@ -1,0 +1,346 @@
+[
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Combat\\AI\\CombatAIController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Combat\\AI\\CombatEnemy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Combat\\AI\\CombatEnemySpawner.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Combat\\AI\\CombatStateTreeUtility.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Combat\\AI\\EnvQueryContext_Danger.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Combat\\AI\\EnvQueryContext_Player.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Combat\\Animation\\AnimNotify_CheckChargedAttack.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Combat\\Animation\\AnimNotify_CheckCombo.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Combat\\Animation\\AnimNotify_DoAttackTrace.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Combat\\CombatCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Combat\\CombatGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Combat\\CombatPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Combat\\Gameplay\\CombatActivationVolume.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Combat\\Gameplay\\CombatCheckpointVolume.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Combat\\Gameplay\\CombatDamageableBox.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Combat\\Gameplay\\CombatDummy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Combat\\Gameplay\\CombatLavaFloor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Combat\\Interfaces\\CombatActivatable.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Combat\\Interfaces\\CombatAttacker.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Combat\\Interfaces\\CombatDamageable.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Combat\\UI\\CombatLifeBar.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Platforming\\Animation\\AnimNotify_EndDash.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Platforming\\PlatformingCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Platforming\\PlatformingGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_Platforming\\PlatformingPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_SideScrolling\\AI\\SideScrollingAIController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_SideScrolling\\AI\\SideScrollingNPC.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_SideScrolling\\AI\\SideScrollingStateTreeUtility.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_SideScrolling\\Gameplay\\SideScrollingJumpPad.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_SideScrolling\\Gameplay\\SideScrollingMovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_SideScrolling\\Gameplay\\SideScrollingPickup.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_SideScrolling\\Gameplay\\SideScrollingSoftPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_SideScrolling\\Interfaces\\SideScrollingInteractable.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_SideScrolling\\SideScrollingCameraManager.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_SideScrolling\\SideScrollingCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_SideScrolling\\SideScrollingGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_SideScrolling\\SideScrollingPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\Variant_SideScrolling\\UI\\SideScrollingUI.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\WallClimbAttempt.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\WallClimbAttemptCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\WallClimbAttemptGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\WallClimbAttemptPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\Source\\WallClimbAttempt\\WallJumpCharacterMovement.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexi\\Documents\\Unreal Projects\\WallClimbAttempt\\.vscode\\compileCommands_WallClimbAttempt\\WallClimbAttempt.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	}
+]
